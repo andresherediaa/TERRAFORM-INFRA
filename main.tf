@@ -8,6 +8,7 @@ terraform {
   }
 }
 
+
 # Recurso de ejemplo: una VPC simple
 provider "aws" {
   region  = var.aws_region
